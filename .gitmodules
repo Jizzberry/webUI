@@ -1,0 +1,3 @@
+[submodule "vendor/plyr"]
+	path = vendor/plyr
+	url = https://github.com/Jizzberry/plyr-modified
